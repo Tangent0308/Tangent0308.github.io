@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-My name is Tan Yue, a sophomore majoring in Computer Science at the School of Information Sciences and Technology, Peking University. I'm passionate about multimodal research and am currently engaged in relevant studies, though I consider myself a novice in this field. I'm enthusiastic about exploring the integration of different data modalities and its potential applications. I'm looking forward to learning and growing in this field.
+I am Tan Yue, a Peking University Class of 2022 undergraduate majoring in Information and Computing Science at the School of Information Science and Technology. I am also an incoming Ph.D. student (Class of 2026) at the Wang Xuan Institute of Computer Technology, School of Computer Science, Peking University. My research interests include multimodal large models, video understanding, and AIGC.
