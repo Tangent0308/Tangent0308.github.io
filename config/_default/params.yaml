@@ -2,11 +2,11 @@ hugoblox:
   schema: "2.0"
 
   identity:
-    name: "Tan Yue"
+    name: "Yue Tan"
     organization: "Peking University"
     type: person
     tagline: "Multimodal large models · Video understanding · AIGC"
-    description: "Personal website of Tan Yue, a Peking University student working on multimodal large models, video understanding, and AIGC."
+    description: "Personal website of Yue Tan, a Peking University student working on multimodal large models, video understanding, and AIGC."
     social: {}
 
   theme:

@@ -1,6 +1,6 @@
-# Tan Yue Homepage
+# Yue Tan Homepage
 
-This repository hosts Tan Yue's personal website built with the Hugo Blox Academic CV template family.
+This repository hosts Yue Tan's personal website built with the Hugo Blox Academic CV template family.
 
 ## Local development
 

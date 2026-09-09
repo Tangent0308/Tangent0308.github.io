@@ -35,4 +35,4 @@ links:
 
 This publication entry was migrated from the previous site.
 
-**Citation:** J Meng, T Yue, Q Xu, H Wang, Z Ren, W Liu, Y Wang, R Zhang, Y Tong, et al. (2026). "Videozerobench: Probing the limits of video MLLMs with spatio-temporal evidence verification." arXiv preprint arXiv:2604.01569.
+**Citation:** J Meng, Yue Tan, Q Xu, H Wang, Z Ren, W Liu, Y Wang, R Zhang, Y Tong, et al. (2026). "Videozerobench: Probing the limits of video MLLMs with spatio-temporal evidence verification." arXiv preprint arXiv:2604.01569.

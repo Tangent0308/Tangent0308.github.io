@@ -35,4 +35,4 @@ links:
 
 This publication entry was migrated from the previous site.
 
-**Citation:** J Meng, X Li, H Wang, Y Tan, T Zhang, L Kong, Y Tong, A Wang, Z Teng, et al. (2026). "Open-o3-Video: Grounded Video Reasoning with Explicit Spatio-Temporal Evidence." ICML 2026.
+**Citation:** J Meng, X Li, H Wang, Yue Tan, T Zhang, L Kong, Y Tong, A Wang, Z Teng, et al. (2026). "Open-o3-Video: Grounded Video Reasoning with Explicit Spatio-Temporal Evidence." ICML 2026.

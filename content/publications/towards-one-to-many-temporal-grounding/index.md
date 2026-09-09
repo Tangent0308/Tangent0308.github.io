@@ -33,4 +33,4 @@ links:
 
 This publication entry was migrated from the previous site.
 
-**Citation:** Q Xu, Y Tan, S Chen, J Meng, A Wang, S Ji, H Fei, J Li (2026). "Towards One-to-Many Temporal Grounding." ICML 2026.
+**Citation:** Q Xu, Yue Tan, S Chen, J Meng, A Wang, S Ji, H Fei, J Li (2026). "Towards One-to-Many Temporal Grounding." ICML 2026.

@@ -2,7 +2,7 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Tan Yue
+  display: Yue Tan
   given: Yue
   family: Tan
   alternate: ''
@@ -11,7 +11,7 @@ status:
   icon: "🎓"
   role: Ph.D. student
 bio: |
-  Tan Yue received a BS in Information and Computing Science from the School of
+  Yue Tan received a BS in Information and Computing Science from the School of
   Information Science and Technology, Peking University (2022–2026). They are a
   Ph.D. student since 2026 at the Wang Xuan Institute of Computer Technology,
   School of Computer Science, Peking University. Research interests include
