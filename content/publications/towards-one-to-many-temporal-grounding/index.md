@@ -11,12 +11,12 @@ authors:
   - J Li
 date: "2026-06-01T00:00:00Z"
 publishDate: "2026-06-01T00:00:00Z"
-publication_types: ["article"]
+publication_types: ["paper-conference"]
 publication:
-  name: "arXiv preprint arXiv:2606.06294"
-peer_reviewed: false
+  name: "Proceedings of the 43rd International Conference on Machine Learning (ICML 2026)"
+peer_reviewed: true
 open_access: true
-summary: "arXiv preprint arXiv:2606.06294."
+summary: "ICML 2026."
 featured: false
 aliases:
   - /publication/2026-06-01-towards-one-to-many-temporal-grounding
@@ -33,4 +33,4 @@ links:
 
 This publication entry was migrated from the previous site.
 
-**Citation:** Q Xu, Y Tan, S Chen, J Meng, A Wang, S Ji, H Fei, J Li (2026). "Towards One-to-Many Temporal Grounding." arXiv preprint arXiv:2606.06294.
+**Citation:** Q Xu, Y Tan, S Chen, J Meng, A Wang, S Ji, H Fei, J Li (2026). "Towards One-to-Many Temporal Grounding." ICML 2026.

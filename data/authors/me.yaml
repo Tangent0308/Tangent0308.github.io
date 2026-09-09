@@ -9,14 +9,13 @@ name:
   pronunciation: ''
 status:
   icon: "🎓"
-  role: Undergraduate student and incoming Ph.D. student
+  role: Ph.D. student
 bio: |
-  Tan Yue is a Peking University Class of 2022 undergraduate majoring in
-  Information and Computing Science at the School of Information Science and
-  Technology. Tan Yue is also an incoming Ph.D. student (Class of 2026) at the
-  Wang Xuan Institute of Computer Technology, School of Computer Science,
-  Peking University. Research interests include multimodal large models, video
-  understanding, and AIGC.
+  Tan Yue received a BS in Information and Computing Science from the School of
+  Information Science and Technology, Peking University (2022–2026). They are a
+  Ph.D. student since 2026 at the Wang Xuan Institute of Computer Technology,
+  School of Computer Science, Peking University. Research interests include
+  multimodal large models, video understanding, and AIGC.
 
 affiliations:
   - name: School of Information Science and Technology, Peking University
@@ -24,11 +23,11 @@ affiliations:
 
 links:
   - icon: at-symbol
-    url: mailto:2200012743@stu.pku.edu.cn
+    url: mailto:tanyue@stu.pku.edu.cn
     label: E-mail
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?hl=zh-CN&user=oK4GaMYAAAAJ&view_op=list_works&sortby=title
-    label: Google Scholar
+  - icon: brands/github
+    url: https://github.com/Tangent0308
+    label: GitHub
 
 interests:
   - Multimodal Large Models
@@ -38,22 +37,17 @@ interests:
 education:
   - degree: BS in Information and Computing Science
     institution: School of Information Science and Technology, Peking University
+    start: 2022-09-01
+    end: 2026-06-30
     summary: |
-      Peking University Class of 2022 undergraduate.
-  - degree: Incoming PhD in Computer Science
+      Peking University undergraduate, 2022–2026.
+  - degree: PhD in Computer Science
     institution: Wang Xuan Institute of Computer Technology, School of Computer Science, Peking University
+    start: 2026-09-01
     summary: |
-      Peking University Class of 2026 Ph.D. student.
+      Peking University Ph.D. student, 2026–present.
 
-experience:
-  - role: Incoming Ph.D. Student
-    org: Wang Xuan Institute of Computer Technology, School of Computer Science, Peking University
-    summary: |
-      Research interests include multimodal large models, video understanding, and AIGC.
-  - role: Undergraduate Student
-    org: School of Information Science and Technology, Peking University
-    summary: |
-      Majoring in Information and Computing Science.
+experience: []
 
 skills: []
 languages: []

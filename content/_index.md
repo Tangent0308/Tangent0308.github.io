@@ -10,8 +10,8 @@ sections:
       username: me
       text: ''
       button:
-        text: Google Scholar
-        url: https://scholar.google.com/citations?hl=zh-CN&user=oK4GaMYAAAAJ&view_op=list_works&sortby=title
+        text: GitHub
+        url: https://github.com/Tangent0308
       headings:
         about: ''
         education: ''
@@ -49,12 +49,11 @@ sections:
       view: citation
 
   - block: resume-experience
-    id: experience
+    id: education
     content:
-      title: Experience
       username: me
     design:
-      date_format: 'January 2006'
+      date_format: '2006'
       is_education_first: true
 
   - block: markdown
@@ -83,9 +82,8 @@ sections:
       title: Contact
       subtitle: ''
       text: |-
-        - Email: [2200012743@stu.pku.edu.cn](mailto:2200012743@stu.pku.edu.cn)
-        - Google Scholar: [Profile](https://scholar.google.com/citations?hl=zh-CN&user=oK4GaMYAAAAJ&view_op=list_works&sortby=title)
-        - Location: Beijing, China
+        - Email: [tanyue@stu.pku.edu.cn](mailto:tanyue@stu.pku.edu.cn)
+        - GitHub: [Tangent0308](https://github.com/Tangent0308)
     design:
       columns: '1'
 ---
