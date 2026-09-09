@@ -1,0 +1,22 @@
+[build]
+  command = """
+    set -e
+    pnpm install --verbose --no-frozen-lockfile
+    hugo --gc --minify -b $URL --logLevel debug --printI18nWarnings --printPathWarnings
+    pnpm run pagefind
+  """
+  publish = "public"
+
+[build.environment]
+  HUGO_VERSION = "0.162.0"
+  GO_VERSION = "1.21.5"
+  NODE_VERSION = "22"
+  PNPM_FLAGS = "--no-frozen-lockfile"
+  HUGO_ENABLEGITINFO = "true"
+  HUGO_LOG_I18N_WARNINGS = "true"
+  HUGO_LOG_WARNINGS = "true"
+  FORCE_COLOR = "1"
+  PNPM_LOG_LEVEL = "debug"
+
+[context.production.environment]
+  HUGO_ENV = "production"
