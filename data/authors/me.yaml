@@ -47,7 +47,15 @@ education:
     summary: |
       Peking University Ph.D. student, 2026–present.
 
-experience: []
+experience:
+  - role: Algorithm Intern
+    org: Amap (Gaode)
+    start: 2024-07-01
+    end: 2024-08-31
+  - role: Algorithm Intern
+    org: ByteDance
+    start: 2025-11-01
+
 
 skills: []
 languages: []

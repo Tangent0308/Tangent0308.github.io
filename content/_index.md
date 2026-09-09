@@ -49,7 +49,7 @@ sections:
       view: citation
 
   - block: resume-experience
-    id: education
+    id: experience
     content:
       username: me
     design:
